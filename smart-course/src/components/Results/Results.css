@@ -1,0 +1,29 @@
+.Results-container {
+    margin-top: 32px;
+}
+
+.Result {
+    display: flex;
+    flex-direction: column;
+}
+
+.Result-header {
+    display: flex;
+    align-items: center;
+    height: 50px;
+}
+
+.Result-title {
+    font-size: 24px;
+}
+
+.Result-key {
+    /* height: 50px; */
+    padding: 8px 16px;
+    box-sizing: border-box;
+    background-color: white;
+    color: #222;
+    border-radius: 100px;
+    margin-right: 8px;
+    font-weight: 600;
+}

@@ -1,0 +1,14 @@
+.Home-container {
+    display: flex;
+    flex-direction: column;
+    min-width: 50%;
+    width: 800px;
+    max-width: calc(100% - 64px);
+    margin: 32px;
+    margin-top: 128px;
+}
+
+.Home-loader {
+    margin: 64px;
+    align-self: center;
+}

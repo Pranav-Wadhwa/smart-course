@@ -1,0 +1,193 @@
+
+1004: COMPUTER LITERACY<br>
+Introduction to personal computer applications.  Overview of basic computer hardware and system software concepts. Projects using various application software packages including word processing, spreadsheets, databases, and graphics (analytical and presentation), using electronic-mail, computer network browsers, and on-line training systems. Not for CS major or minor credit. Duplicates ACIS 1504, ALS 1514. (3H,3C)<br>
+<br>
+1044: INTRODUCTION TO PROGRAMMING IN C<br>
+Fundamental concepts underlying software solutions of many problems.  Structured data, statement sequencing, logic control, input/output, and functions.  The course will be taught using a structured approach to programming. Partially duplicates 1344. (3H,3C) I, II, III, IV.<br>
+<br>
+1054: INTRODUCTION TO PROGRAMMING IN JAVA<br>
+This course provides an introduction to object oriented programming using the Java language. Fundamental concepts underlying programming and software solutions to many problems. Structured data, statement sequencing, logic control, classes, objects, methods, instantiation of classes, sending messages to objects. (2H,2L,3C) I, II, III.<br>
+<br>
+1104: INTRODUCTION TO COMPUTER SCIENCE<br>
+This course (a) presents the fundamental concepts of computer programming, (b) introduces the history of computing, (c) provides an introduction to and preliminary investigation of the fundamental concepts found throughout the computer science discipline, and (d) overviews computer science subdisciplines such as algorithms, artificial intelligence, computer architecture, human-computer interaction, language translation, operating systems, parallel computation, and software engineering.  Co: 1044 or 1344. (3H,3C)<br>
+<br>
+1114: INTRODUCTION TO SOFTWARE DESIGN<br>
+<br>
+Fundamental concepts of programming from an object-oriented perspective.  Basic software engineering principles and programming skills in a programming language that supports the object-oriented paradigm.  Simple data types, control structures, array and string data structures, basic algorithms, testing and debugging.  A basic model of the computer as an abstract machine.  Modeling and problem-solving skills applicable to programming at this level.  Partially duplicates 1054, 1124, and 1705. Programming experience may be substituted for pre-requisite ENGE 1024 with instructor's permission. Pre: ENGE 1024. (2H,2L,3C)<br>
+<br>
+1124: INTRODUCTION TO MEDIA COMPUTATION<br>
+This course teaches fundamental manipulations of digital media as an introduction to computer science.  Basic software engineering principles and programming skills are taught with a programming language that supports object-oriented programming.  Simple sata types, control structures, array and string data structures and algorithms, testing and debugging.  Partially duplicates 1054 and 1705. (2H,2L,3C)<br>
+<br>
+1204: INTERNET AND SYSTEM SOFTWARE<br>
+An on-line self-paced tutorial to the Internet and World Wide Web, Program Development Tools, and common applications. Introduction to Web publishing, communication, and searching. Instruction in the use of an integrated program development environment, debugger, and related program development tools. Introduction to spreadsheets, databases, and slide presentation software package. Partially duplicates 1604. Co: 1344, 1044. (1H,1C)<br>
+<br>
+1344: PROGRAMMING IN C<br>
+A course designed to build on prior knowledge of a high level programming language and to teach the fundamentals of structured programming in C.  Expression, statement, and module level constructs are discussed; programming assignments are used to reinforce concepts and to provide the requisite experience to pursue advanced Computer Science courses.  Partially duplicates 1044. Pre: 1014 or 1034. (1H,1C)<br>
+<br>
+1604: INTRODUCTION TO THE INTERNET<br>
+Introduces the concepts, software, data organization and issues involved with using networked information.  Also covers file formats (as applied in networked hypermedia and multimedia sound/video documents), local and global (Internet) network access, electronic mail, transferring files, network news, the World Wide Web, digital libraries, on-line public access catalogs and electronic journals, CD-ROMs and on-line databases, and commercial and other networks.  Partially duplicates 1205.  Word processing ability required. (1H,1C) I,II, III.<br>
+<br>
+1614 (ACIS 1614) (BIT 1614): INTRODUCTION TO LIVING IN THE KNOWLEDGE SOCIETY (LIKES)<br>
+Introduces computing concepts needed by students to live in the emerging Knowledge Society.  Prepares students to take courses in the Curriculum for Liberal education that are part of the pathway with theme Living In the KnowlEdge Society (LIKES) - i.e., the LIKES themed core.  Surveys key paradigms of computing, including problem solving, programming, modeling and simulation, and software engineering.  Relates these to the Knowledge Society, covering data, information, and knowledge, considering hypermedia, human-computer interaction, presentation, visualization, networking, and communication.  Students are prepared to understand the (potential) application of computing to society in general and in their disciplines. (1H,1C)<br>
+<br>
+1704: INTRODUCTION TO DATA STRUCTURES AND SOFTWARE ENGINEERING<br>
+Introduces a disciplined approach to problem-solving and emphasizes the utility of software engineering principles applied to programming practices. Also stressed are program design and implementation involving multiple modules, verification of program correctness, and abstract data types and objects such as strings, arrays, sets, linked lists, stacks, queues, and files. Pre: 1044 or 1344. Co: 2304, 1206. (3H,3C)<br>
+<br>
+1705-1706: INTRODUCTION TO OBJECT-ORIENTED DEVELOPMENT<br>
+Fundamental concepts of programming from an object-oriented perspective.  Basic software engineering principles and programming skills taught with a programming language that supports the object-oriented paradigm.  1705:  Simple data types, control structures, array and string data structures and algorithms, testing and debugging.  1706:  Detailed coverage of data structures, algorithms, and the methods of object-oriented design and software construction.  Design and construction of medium-sized object-oriented programming projects with an emphasis on teamwork and software engineering.  Programming experience in C++ or Java may be substituted for ENGE 1024 prerequisite. Must have a C or better in prerequisite CS 1705. Pre: (MATH 1205 or MATH 1526), ENGE 1024 for 1705; 1705 for 1706. (2H,2L,3C) I, II.<br>
+<br>
+1705H-1706H: HONORS INTRODUCTION TO OBJECT-ORIENTED DEVELOPMENT<br>
+(2H,2L,3C)<br>
+<br>
+1944: COMPUTER SCIENCE FIRST YEAR SEMINAR<br>
+An introduction to academic and career planning for computer science majors. Pass/Fail only. (1H,1C)<br>
+<br>
+2104: INTRODUCTION TO PROBLEM SOLVING IN COMPUTER SCIENCE<br>
+This course introduces the student to a broad range of heuristics for solving problems in a range of settings that are relevant to computation.  Emphasis on problem-solving techniques that aid programmers and computer scientists. Heuristics for solving problems "in the small" (classical math and word problems), generating potential solutions to "real-life" problems encountered in the profession, problem solving through computation, and problem solving in teams. Programming experience may be substituted for the ENGE 1024 pre-requisite. Pre: ENGE 1024, (MATH 1205 or MATH 1526). (3H,3C)<br>
+<br>
+2114: SOFTWARE DESIGN AND DATA STRUCTURES<br>
+A programming-intensive exploration of software design concepts and implementation techniques.  Builds on knowledge of fundamental object-oriented programming.  Advanced object-oriented software design, algorithm development and analysis, and classic data structures.  Includes a team-based, semester-long software project. Co-requisite MATH 1205 may be substituted with MATH 1526. A grade of C or better is required in CS pre-requisite 1114 or 1124 Pre: 1114 or 1124. Co: MATH 1205. (2H,2L,3C)<br>
+<br>
+2204: UNIX<br>
+A hands-on introduction to the modern operating system UNIX. Introduction to the basic operating systems concepts employed by UNIX. Students gain experience with basic system usage, system installation and administration, the UNIX programming environment, and system utilities. Duplicates 2304 (UNIX). A grade of C or better required in CS prerequisite 1706. Pre: 1706 or ECE 2574. (2H,2C) I, II. III.<br>
+<br>
+2304: SELF STUDY IN A PROGRAMMING SYSTEM<br>
+Guided self-study in a specific programming system, its syntax and applications; based on prior knowledge of the programming process and experience in programming with some high level language; may be taken three times for credit with different system each time; may be taken only twice for CS major or minor credit; systems to be offered may include FORTRAN, COBOL, C, UNIX, LISP.  2304 (UNIX) partially duplicates 1206. A grade of C or better required in CS prerequisite 1706. Pre: 1706. (1C)<br>
+<br>
+2504: INTRODUCTION TO COMPUTER ORGANIZATION<br>
+Basic computer organization at the machine language and assembly language level.  Digital logic and circuits.  Basic components of computer hardware and their implementation. Interaction with the operating system.  Alternative computer organizations and implementations.  Partially duplicates ECE 2504. A grade of C or better required in CS prerequisites 2204 and 2605. Pre: 2204, 2605. (3H,3C) I,II.<br>
+<br>
+2505-2506: INTRODUCTION TO COMPUTER ORGANIZATION<br>
+An introduction to the design and operation of digital computers.  Works up from the logic gate level to combinational and sequential circuits, information representation, computer arithmetic, arithmetic/logic units, control unit design, basic computer organization, relationships between high level programming languages and instruction set architectures. A grade of C or better is required in CS pre-requisite 1114 or 1124. Pre: 1114 or 1124 for 2505; 2505, 2114, MATH 2534 for 2506. Co: MATH 2534 for 2505. (3H,3C)<br>
+<br>
+2604: DATA STRUCTURES AND FILE MANAGEMENT<br>
+This course extends the concepts of primitive data types by teaching the student a classical set of data structures that pervades both the theoretical and practical domains of computer science. Topics discussed include lists, trees, graphs, searching, sorting, file system organization and access methods. A grade of C or better required in CS prerequisites 2204 and 2704. Pre: 2204, 2704, MATH 2534. (3H,3C)<br>
+<br>
+2605-2606: DATA STRUCTS &amp; OO DEVELOPMENT<br>
+Design and implementation of data structures, intermediate software engineering design principles, and object-oriented programming skills.  Emphasis on algorithm analysis, design patterns, testing, debugging, and organizing and managing larger problems.  2605:  designing, implementing, and using data structures, introductory algorithm analysis, object-oriented design principles, and low-level design techniques.  2606:  Sorting, searching, file processing, indexing, hashing, algorithm analysis, and advanced tree structures.  2605:  Must have C or better in prerequisite CS 1706. 2606:  Must have C or better in prerequisite 2605. Pre: 1706, MATH 2534 for 2605; 2605 for 2606.<br>
+
+<br>
+2704: ORJECT-ORIENTED SOFTWARE DESIGN AND CONSTRUCTION<br>
+Introduces the principles of object-oriented programming with emphasis on objects, classes, inheritance, and polymorphism.  A programming language such as C++ is used to apply these principles in several application domains.  Also stressed are tools and techniques for testing, debugging, and organizing and managing larger programs. A grade of C or better required in CS prerequisite 1706. Pre: 1706 or ECE 2574. (3H,3C)<br>
+<br>
+2964: FIELD STUDY<br>
+Pass/Fail only. Variable credit course.<br>
+<br>
+2974: INDEPENDENT STUDY<br>
+Variable credit course.<br>
+<br>
+2984: SPECIAL STUDY<br>
+Variable credit course.<br>
+<br>
+3114: DATA STRUCTURES AND ALGORITHMS<br>
+Advanced data structures and analysis of data structure and algorithm performance.  Sorting, searching, hashing, and advanced tree structures and algorithms.  File system organization and access methods.  Course projects require advanced problem-solving, design, and implementation skills. A grade of C or better is required in CS pre-requisites 2104 2114, and 2505. Pre: 2104, 2114, 2505, MATH 2534. (3H,3C)<br>
+<br>
+3204: OPERATING SYSTEMS<br>
+Covers the concept of a "process", its abstract and physical representations, its creation, management and scheduling. Study of: a thread process and how it relates to the parent; asynchronous concurrently executing processes, shared memory access, synchronization via semaphores, critical regions and monitors. Additional topics: deadlock prevention, avoidance, and detection, including Banker's Algorithm; memory management strategies including virtual memory; file representation and storage management; and device management. UNIX will be the reference system and the one used for project development and submission. A grade of C or better required in CS prerequisites 2504, and CS (2604 or 2606).<br>
+X-grade allowed. Pre: (2504 or ECE 2504), (CS 2604 or CS 2606). (3H,3C) I, II.<br>
+<br>
+3214: COMPUTER SYSTEMS<br>
+Introduction to computer systems as they are relevant to application programmers today, with emphasis on operating system principles.  Operating system design and architectures; processes; threads, synchronization techniques, deadlock; CPU scheduling; system call interfaces, system level I/O and file management; shell programming; separate compilation, loading and linking; inter-process communication (IPC); virtual and physical memory management and garbage collection; network protocols and programming; virtualization; performance analysis and optimization. A grade of C or better is required in CS pre-requisites 2506 and 2114. Pre: 2506, 2114. (3H,3C)<br>
+<br>
+3304: COMPARATIVE LANGUAGES<br>
+This course in programming language constructs emphasizes the run-time behavior of programs.  The languages are studied from two points of view: (1) the fundamental elements of languages and their inclusion in commercially available systems; and, (2) the differences between implementations of common elements in languages. A grade of C or better required in CS prerequisite 2604 or 2606. Pre: 2604 or 2606. (3H,3C) I,II.<br>
+<br>
+3414 (MATH 3414): NUMERICAL METHODS<br>
+Computational methods for numerical solution of non-linear equations, differential equations, approximations, iterations, methods of least squares, and other topics. Partially duplicates Math 4554. A grade of C or better required in CS prerequisite 1044 or 1705. Pre: MATH 2214, MATH 2224, CS 1044 or CS 1705. (3H,3C) II.<br>
+<br>
+3604: PROFESSIONALISM IN COMPUTING<br>
+Studies the ethical, social, and professional concerns of the computer science field.  Covers the social impact of the computer, implications and effects of computers on society, and the responsibilities of computer professionals in directing the emerging technology.  The topics are studied through case studies of reliable, risk-free technologies, and systems that provide user friendly processes.  Specific studies are augmented by an overview of the history of computing, interaction with industrial partners and computing professionals, and attention to the legal and ethical responsibilities of professionals.  This is a web-supported course, incorporating writing intensive exercises, making extensive use of active learning technologies. A grade of C or better required in CS prerequisite 2604 or 2606. Pre: COMM 2004, CS 2604 or CS 2606. (3H,3C) I, II.<br>
+<br>
+3704: INTERMEDIATE SOFTWARE DESIGN AND ENGINEERING<br>
+Explores the principles of software design in detail, with an emphasis on software engineering aspects.  Includes exposure of software lifecycle activities including design, coding, testing, debugging, and maintenance, highlighting how design affects these activities.  Peer reviews, designing for software reuse, CASE tools, and writing software to specifications are also covered. A grade of C or better required in CS prerequisite 2604 or 2606.  Pre: 2604 or 2606. (3H,3C) I, II.<br>
+<br>
+3724: INTRODUCTION TO HUMAN-COMPUTER INTERACTION<br>
+Survey of human-computer interaction concepts, theory, and practice.  Basic components of human-computer interaction. Interdisciplinary underpinnings.  Informed and critical evaluation of computer-based technology.  User-oriented perspective, rather than system-oriented, with two thrusts:  human (cognitive, social) and technological (input/output, interactions styles, devices).  Design guidelines, evaluation methods, participatory design, communication between users and system developers. A grade of C or better required in CS prerequisite 2604 or 2606. Pre: 2604 or 2606. (3H,3C) I, II.<br>
+<br>
+3744: INTRO GUI PROGRAMMING/GRAPHICS<br>
+Design and implementation of object-oriented graphical user interfaces (GUI) and two-dimensional computer graphics systems.  Implementation methodologies including callbacks, handlers, event listeners, design patterns, layout managers, and architectural models.  Mathematical foundations of computer graphics applied to fundamental algorithms for clipping, scan conversion, affine and convex linear transformations, projections, viewing, structuring, and modeling. A grade of C or better is required in CS pre-requisite 2114. Pre: 2114, MATH 1224, MATH 1114. (3H,3C)<br>
+<br>
+3824: INTRODUCTION TO COMPUTATIONAL BIOLOGY AND BIOINFORMATICS<br>
+Introduction to computational biology and bioinformatics (CBB) through hands-on learning experiences.  Emphasis on problem solving in CBB.  Breadth of topics covering structural bioinformatics; modeling and simulation of biological networks; computational sequence analysis; algorithms for reconstructing phylogenies; computational systems biology; and data mining algorithms. Pre-requisite: Grade of C or better in CS 2204 and CS 2606 Pre: 2204, 2606. (3H,3C) <br>
+<br>
+4004: DATA AND INFORMATION STRUCTURES<br>
+Formal underpinnings of computer science: logic, sets, relations as they apply to computer science. Principles of data structures, algorithm analysis, file management, databases. Not for CS major or minor credit; not for graduate credit in CSA program. Pre: 1704. (3H,3C)<br>
+<br>
+4014: PRINCIPLES OF COMPUTER ARCHITECTURE AND OPERATING SYSTEMS<br>
+Principles of computer hardware organization and operating systems. From individual microprocessor hardware components to computer network architectures.  Operating system principles, with emphasis on concurrency and synchronization, deadlock, memory, scheduling and performance.  Not for CS major or minor credit; not for graduate credit in CSA program. Pre: 4004. (3H,3C) II.<br>
+<br>
+4104: DATA AND ALGORITHM ANALYSIS<br>
+This course emphasizes the understanding of data structures and algorithms from an analytical perspective rather than from an implementation standpoint.  The concepts developed allow discussion of the efficiency of an algorithm and the comparison of two or more algorithms with respect to space and run-time requirements.  Analytical methods are used to describe theoretical bounds as well as practical ones.  In general, this course addresses the constraints that affect problem solvability. A grade of C or better required in CS prerequisite 2604 or 2606. Pre: (2604 or 2606), (MATH 3134 or MATH 3034). (3H,3C) I, II.<br>
+<br>
+4114: INTRODUCTION TO FORMAL LANGUAGES AND AUTOMATA THEORY<br>
+The course presents a study of formal languages and the correspondence between language classes and the automata that recognize them. Formal definitions of grammars and acceptors, deterministic and nondeterministic systems, grammar ambiguity, finite state and push-down automata, and normal forms will be discussed. Pre: MATH 3134 or MATH 3034. (3H,3C) II.<br>
+<br>
+4124: THEORY OF COMPUTATION<br>
+Theoretical analysis of the computational process; fundamental concepts such as abstract programs, classes of computational machines and their equivalence, recursive function theory, unsolvable problems, Church's thesis, Kleene's theorem, program equivalence, and generability, acceptability, decidability will be covered. I Pre: MATH 3134 or MATH 3034. (3H,3C)<br>
+<br>
+4204: COMPUTER GRAPHICS<br>
+Hardware and software techniques for the display of graphical information.  2D and 3D geometry and transformations, clipping and windowing, software systems.  Interactive graphics, shading, hidden surface elimination, perspective depth.  Modeling and realism. A grade of C or better required in CS prerequisite 2604 or 2606. Pre: 3114, 3744. (3H,3C) I, II.<br>
+<br>
+4214: SIMULATION AND MODELING<br>
+Overview of discrete-event digital computer simulation and modeling.  Fundamentals of model development, Monte Carlo simulation, the life cycle of a simulation study, input and output data analysis, world views and time control, random number and variate generation, credibility assessment of simulation results, simulation languages, applications of simulation using the General Purpose Simulation System (GPSS). A grade of C or better required in CS prerequisite 1706. Pre: 1706, STAT 4714. (3H,3C)<br>
+<br>
+4224: PERFORMANCE EVALUATION OF COMPUTER SYSTEMS<br>
+Overview of techniques for measuring, improving, and tuning the performance of computer systems.  Procurement, workload characterization, measurement principles, the representation of measurement data, software and hardware monitors, capacity planning, bottleneck detection, system and program tuning, simulation and analytic models and their applications, case studies. Pre: 3204, (STAT 4714 or STAT 4105 or STAT 4705). (3H,3C)<br>
+<br>
+4234: PARALLEL COMPUTATION<br>
+Survey of parallel computer architectures, models of parallel computation, and interconnection networks. Parallel algorithm development and analysis.  Programming paradigms and languages for parallel computation.  Example applications.  Performance measurement and evaluation. A grade of C or better required in CS prerequisite 3204. I Pre: 3204. (3H,3C)<br>
+<br>
+4244: INTERNET SOFTWARE DEVELOPMENT<br>
+Key technology underlying the World-Wide Web.  Web architecture, including client and server design, network protocols, and related standards.  Static and dynamic content, caching, state management, fault tolerance, error handling.  Programming systems and abstractions, e.g., sockets, remote procedures, Web services, frameworks and component models.  Document representations and processing. Security.  Entrepreneurial issues and emerging technologies. A grade of C or better required in CS 3204 prerequisite. Pre: 3204 or 3204. (3H,3C)<br>
+<br>
+4254: COMPUTER NETWORK ARCHITECTURE AND PROGRAMMING<br>
+Introduction to computer network architecture, and methods for programming network services and applications (e.g. DNS, Email and MIME, http, SNMP, multimedia).  Wired, wireless, and satellite network architectures.  OSI protocol model, with an emphasis on upper layers.  Congestion control, quality of service, routing.  Internet protocol suite (e.g. IP, TCP, ARP, RARP).  Server design (e.g. connectionless, concurrent).  Network programming abstractions (e.g. XDR, remote procedure calls, sockets, DCOM).  Case studies (e.g. TELNET). A grade of C or better required in CS prerequisite 3204. Pre: 3204. (3H,3C) II.<br>
+<br>
+4284: SYSTEMS &amp; NETWORKING CAPSTONE<br>
+Advanced topics in computer systems &amp; networking, e.g. distributed and parellel processing, emerging architectures, novel systems management &amp; networking design, fault-tolerance, and robust and secure data management.  Team-based approach to solving open-ended computer systems &amp; networking problems.  Designing, implementing and documenting advanced computer/networking systems.  A grade of C or better is required for pre-requisites CS 3114 and CS 3214.  Pre: 3114, 3214. (3H,3C)<br>
+<br>
+4304: COMPILER DESIGN AND IMPLEMENTATION<br>
+This course includes the theory, the design, and the implementation of a large language translator system. Lexical analysis, syntatic analysis, code generation, and optimization are emphasized. A grade of C or better required in CS prerequisite 3204. Pre: 3204. (3H,3C) II.<br>
+<br>
+4414 (MATH 4414): ISSUES IN SCIENTIFIC COMPUTING<br>
+Theory and techniques of modern computational mathematics, computing environments, computational linear algebra, optimization, approximation, parameter identification, finite difference and finite element methods and symbolic computation.  Project-oriented course; modeling and analysis of physical systems using state-of-the-art software and packaged subroutines.  Pre: MATH 2214, MATH 3214. (2H,3L,3C)<br>
+<br>
+4504 (ECE 4504): COMPUTER ORGANIZATION<br>
+Information representation and transfer; instructions and data access methods; the control unit and microprogramming; memories; input/output and interrupts; secondary storage; the von Neumann SISD organization; high level language machines; the RISC concept; special purpose processors including operating system, file, text, floating point, communication, etc.  Multicomputers; multiprocessors; concurrent processing support; Pipeline machines, processor arrays, database machines; the data flow/data directed approach; computer networks. A grade of C or better required in CS prerequisite 3204.  Pre: 3204.  (3H,3C) I,II.<br>
+<br>
+4570 (ECE 4570): WIRELESS NETWORKS AND MOBILE SYSTEMS<br>
+Multidisciplinary, project-oriented design course that considers aspects of wireless and mobile systems including wireless networks and link protocols, mobile networking including support for the Internet Protocol suite, mobile middleware, and mobile applications.   Students complete multiple experiments and design projects. Pre: 4254 or ECE 4564. (3H,3C) <br>
+<br>
+4604: INTRODUCTION TO DATA BASE MANAGEMENT SYSTEMS<br>
+Emphasis on introduction of the basic data base models, corresponding logical and physical data structures, comparisons of models, logical data design, and data base usage.  Terminology, historical evolution, relationships, implementation, data base personnel, future trends, applications, performance considerations, data integrity. Senior standing required. A grade of C or better required in CS prerequisite 2604 or 2606. Pre: 2604 or 2606. (3H,3C) II.<br>
+<br>
+4624: MULTIMEDIA, HYPERTEXT AND INFORMATION ACCESS<br>
+Introduces the architectures, concepts, data, hardware, methods, models, software, standards, structures, technologies, and issues involved with:  networked multimedia information and systems, hypertext and hypermedia, networked information videoconferencing, authoring/electronic publishing, and information access. Coverage includes how to capture, represent, link, store, compress, browse, search, retrieve, manipulate, interact with, synchronize, perform, and present: text, drawings, still images, animations, audio, video, and their combinations (including in digital libraries). Pre: 2606. (3H,3C)<br>
+<br>
+4634: DESIGN OF INFORMATION<br>
+Survey of the higher-order properties that allow data to become information, that is, to inform people.  The course focuses on the design of user interface layouts, and on the design of texts and hypertexts, as well as on the information development process. Senior Standing required. A grade of C or better required in CS prerequisite 2604 or 2606. Pre: 2604 or 2606. (3H,3C)<br>
+<br>
+4644: CREATIVE COMPUTING STUDIO<br>
+Capstone computer science course at the intersection of arts and technology.  Intensive immersion in different approaches to digital arts such as game design, interactive art, digital music, and immersive virtual reality.  Students work in teams to conduct an end-to-end integrative design project. A grade of C or better is required for pre-requisites CS 3724. Pre: 3724. (3H,3C)<br>
+<br>
+4704: SOFTWARE ENGINEERING<br>
+Introduction to the basic principles of software engineering.  Issues in the software life cycle.  Emphasis on methods for software design and testing.  Project management and quality assurance.  Significant software project required. A grade of C or better required in CS prerequisite 3704 I Pre: 3704. (2H,3L,3C)<br>
+<br>
+4804: INTRODUCTION TO ARTIFICIAL INTELLIGENCE<br>
+Overview of the areas of problem solving, game playing, and computer vision.  Search trees and/or graphs, game trees, block world vision, syntactic pattern recognition, object matching, natural language, and robotics.  Senior standing required. A grade of C or better required in CS prerequisite 2604 or 2606. I Pre: 2604 or 2606. (3H,3C)<br>
+<br>
+4944: SEMINAR<br>
+Pass/Fail only. (1H,1C)<br>
+<br>
+4964: FIELD STUDY<br>
+Pass/Fail only. Variable credit course.<br>
+<br>
+4974: INDEPENDENT STUDY<br>
+Variable credit course.<br>
+<br>
+4984: SPECIAL STUDY<br>
+Variable credit course.<br>
+<br>
+4994: UNDERGRADUATE RESEARCH<br>
+Variable credit course.<br>
+<br>

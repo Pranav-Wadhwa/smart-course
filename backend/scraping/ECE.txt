@@ -1,0 +1,265 @@
+1574: OBJECT-ORIENTED ENGINEERING PROBLEM SOLVING WITH C++<br>
+Problem solving techniques for engineering problems, primarily from the fields of electrical and computer engineering; procedural and object-oriented program development, editing, compiling, linking, and debugging using the C++ programming language. Must have C- or better in the prerequisites. Pre: ENGE 1024, (MATH 1205 or MATH 1205H). (2H,2L,3C) I,II.<br>
+<br>
+2004: ELECTRIC CIRCUIT ANALYSIS<br>
+Introduction to the basic laws and techniques for the analysis of electric circuits.  Calculation of the response of circuits with resistors, independent sources, controlled sources, and operational amplifiers.  The transient analysis of basic circuits with R, L, and C components.  An introduction to AC analysis and phasors.  Requires a C- or better in ENGE 1104 or 1204. Pre: ENGE 1104 or ENGE 1204. Co: 2074, MATH 2214. (3H,3C)<br>
+<br>
+2004H: HONORS ELEC CIRCUIT ANALYSIS<br>
+Pre: ENGE 1016. Co: MATH 2214. (3H,3C)<br>
+<br>
+2014: ENGINEERING PROFESSIONALISM IN ECE<br>
+Overview of the nature and scope of the electrical and computer engineering profession.  Working in a diverse team environment; professional and ethical responsibility; the impact of engineering solutions in a global and societal context; contemporary issues; and life-long learning.  Sophomore standing required. (2H,2C)<br>
+<br>
+2054: APPLIED ELECTRICAL THEORY<br>
+For students in the Mechanical Engineering program or by permission of the ECE Department.  Fundamentals of electric circuits; circuit laws and network theorems, operational amplifters, energy storage elements, response of first and second order systems, AC steady state analysis. Construction, analysis, and characterization of circuits with student-owned Lab-in-a-Box system. Pre: PHYS 2306. Co: MATH 2214. (2H,2L,3C)<br>
+<br>
+2074: ELECTRIC CIRCUIT ANALYSIS LABORATORY<br>
+Construction, analysis, and characterization of circuits with student-owned Lab-in-a-Box system.  Experiments include:  characterization of breadboard backplane wiring; component tolerances; Ohm's law; Kirchoff's laws; series and parallel resistors; voltage and current dividers; delta-wye configurations; mesh-current and node-voltage analysis; superposition and Thevenin equivalents; inverting and non-inverting amplifier circuits; series RC and RL circuits; discharging LEDs and integrator and differentiator circuits.  Introductory design experiments include a simple voltmeter and a flashing traffic arrow. Must have a C- or better in ENGE 1104 or 1204. Pre: ENGE 1104 or ENGE 1204. Co: 2004, MATH 2214. (3L,1C)<br>
+<br>
+2204: ELECTRONICS<br>
+Introduction to basic electronic devices including diodes and transistors and their operating principles.  Analysis of electronic circuits operating under dc bias and switching conditions.  Applications of devices in digital electronic circuits. Pre: 2004. Co: 2274. (3H,3C)<br>
+<br>
+2204H: HONORS ELECTRONICS<br>
+Pre: 2004. Co: 2274. (3H,3C)<br>
+<br>
+2274: ELECTRONIC NETWORKS LABORATORY I<br>
+Principles of operation of electrical and electronic test equipment and applications to measurement of circuit parameters. Transient and steady state response of RLC networks.  Applications of laws and theories of circuits. Design, prototypeing, and testing of electronic devices and circuits. Pre: 2074. Co: 2204. (3L,1C) I,II,IV.<br>
+<br>
+2500: COMPUTER ORGANIZATION AND ARCHITECTURE<br>
+Computer organization and architecture:  instruction formats and construction; addressing modes; memory hierarchy (cache, main memory and secondary memory) operation and performance; simple pipelines; basic performance analysis; simple OS functions, particularly as they relate to hardware; virtual memory; computer I/O concepts, including interrupt and DMA mechanisms; intercomputer communication concepts. Must have C- or better in prerequisite 2504. Pre: 2504.  (3H,3C)<br>
+<br>
+2504: INTRODUCTION TO COMPUTER ENGINEERING<br>
+An introduction to the design and operation of digital computers, including information representation, logic design, integrated circuits, register transfer description, basic computer organization and machine-level programming. The relationship between software and hardware is stressed. Pre: 1574. (3H,3C)<br>
+<br>
+2524: INTRODUCTION TO UNIX FOR ENGINEERS<br>
+Fundamental concepts of operating systems, emphasizing a hands-on introduction to UNIX.  User interfaces, UNIX shell commands, the UNIX file system, task management, common system utilities, the UNIX programming environment. Students gain experience with system installation and administration.  Duplicates CS 2204.  Must have C- or better in prerequisite 2574. Pre: 2574. (2H,2C)<br>
+<br>
+2534: MICROPROCESSOR SYSTEM DESIGN<br>
+Operation and application of microprocessors and microcontrollers, including system level organization, analysis of specific processors, and software and hardware interface design.  Students may not receive credit for both 2534 and 3534. Pre: 2504. (3H,3L,4C)<br>
+<br>
+2574: INTRODUCTION TO DATA STRUCTURES AND SOFTWARE ENGINEERING<br>
+Introduces a disciplined approach to problem-solving and emphasizes the utility of software engineering principles applied to programming practices.  Also stressed are program design and implementation involving multiple modules, verification of program correctness, and abstract data types and objects such as strings, arrays, sets, linked lists, stacks, queues, and files.  Pre:  1574 -A grade C- or better. Pre: 1574. (3H,3C)<br>
+<br>
+2704: SIGNALS AND SYSTEMS<br>
+Analysis techniques for signals and systems.  Signal representation, including Fourier and LaPlace transforms. System definitions and properties, such as linearity, causality, time invariance, and stability.  Use of convolution, transfer functions and frequency response to determine system response.  Applications to circuit analysis. Pre: (2004 or 2004H), (MATH 2214 or MATH 2214H). (3H,3C) I,II.<br>
+<br>
+2964: FIELD STUDY<br>
+Variable credit course.<br>
+<br>
+2974: INDEPENDENT STUDY<br>
+A minimum GPA of 2.0 in all ECE courses is required for enrollment. Variable credit course.<br>
+<br>
+2984: SPECIAL STUDY<br>
+Variable credit course.<br>
+<br>
+3004: AC CIRCUIT ANALYSIS<br>
+Application of the basic laws and techniques of circuit analysis to AC circuits.  Complex numbers and algebra with an emphasis on phasor representation of circuits. Calculation of the frequency response of circuits with R, L, and C components, independent sources, controlled sources, and operational amplifiers.  Analysis of AC steady-state circuits and determination of average power. Magnetically coupled circuits.  Laplace and Fourier transforms.  Representation of circuits by two-port models. Pre: 2704. Co: 3074. (3H,3C)<br>
+<br>
+3054: ELECTRICAL THEORY<br>
+For students in curricula other than ECE.  Fundamentals of electric circuits: circuit laws and network theorems, operational amplifiers, energy storage elements, response of first and second order systems.  AC steady state analysis.  Pre: PHYS 2306. Co: MATH 2214. (3H,3C)<br>
+<br>
+3074: AC CIRCUIT ANALYSIS LABORATORY<br>
+Construction, analysis, and characterization of circuits with student-owned Lab-in-a-Box system.  Experiments include:  sinusoids and phasors including impedance, admittance, and Kirchhoff's laws; sinusoidal steady-state including node and mesh analysis, Thevenin and Norton equivalent, and op amps; ac power analysis including instantaneous and average power, power factor, and complex power; magnetically coupled circuits including mutual inductance, energy in a coupled circuit, and transformers; frequency response including transfer functions, Bode plots, resonance, and passive and active filters; and two-port circuits.  A C- or better is required for all prerequisites. Pre: 2074. Co: 3004. (3L,1C)<br>
+<br>
+3105-3106: ELECTROMAGNETIC FIELDS<br>
+Maxwell's equations and their application to engineering problems.  3105:  transmission lines, electrostatics, magnetostatics.   3106:  time-varying fields, Maxwell's Equations, waves, propagation, guided waves, radiation. Pre: PHYS 2306, MATH 2224, (ECE 2004 or ECE 2004H) for 3105; 3105 for 3106. (3H,3C)<br>
+<br>
+3204: ANALOG ELECTRONICS<br>
+Small signal modeling of transistors.  Basic architecture and functionality of linear amplifiers including transistor biasing circuits, current sources, differential amplifier, common emitter amplifier, common source amplifier, emitter follower, and source follower.  Operational amplifier operating principles, circuit design, and applications.  Frequency response of single stage and multistage amplifiers.  Feedback systems and stability analysis of amplifiers. Pre: 2204, 2704. Co: 3274. (3H,3C)<br>
+<br>
+3254: INDUSTRIAL ELECTRONICS<br>
+For students in curricula other than EE and CpE. Fundamentals of electronics, including basic device principles.  Circuit applications include digital, op-amp, and analog analysis for industrial applications. Pre: 3054. (2H,3L,3C) I,II,IV.<br>
+<br>
+3274: ELECTRONIC CIRCUITS LABORATORY II<br>
+Design, build, and test amplifiers and other electronic circuits to meet specifications.  Bipolar and field-effect transistors, diodes, integrated circuits such as operational amplifiers, and passive components are used.  Gain, bandwidth, input and output impedance, positive and negative feedback, and circuit stability are implemented in the designs.  Digital oscilloscopes, ammeters, voltmeters, function generators, and power supplies are used.  A grade of C- or better is required in all pre-requisite courses. Pre: 2274, 3074. Co: 3204.  (3L,1C)<br>
+<br>
+3304: INTRODUCTION TO POWER SYSTEMS<br>
+Basic concepts of AC systems, single-phase and three-phase networks, electric power generation, transformers, transmission lines, electric machinery and the use of power.  Pre-requisite 3004 with C- or better. Pre: 3004. (3H,3C)<br>
+<br>
+3354: ELECTRIC POWER ENGINEERING LABORATORY<br>
+Laboratory experiments based on principles of electric power engineering. Co: 3304. (3L,1C) II.<br>
+<br>
+3504: DIGITAL DESIGN I<br>
+Design techniques for combinational and sequential logic. Design of digital circuits using standard integrated circuit chips and programmable logic devices.  Computer simulation will be used to validate designs.  Prototypes will be constructed to demonstrate design functionality. Pre: 2504. (3H,3L,4C) I,II.<br>
+<br>
+3534: MICROPROCESSOR SYSTEM DESIGN<br>
+Operation and applications of microprocessors and microcontrollers, including system level organization, analysis of specific processors, and software and hardware interface design. Pre: 2504. (3H,3L,4C)<br>
+<br>
+3574: APPLIED SOFTWARE ENGINEERING<br>
+Software engineering models, tools and techniques are applied to the development of large scale engineering software projects. Pre: 2574. (3H,3C)<br>
+<br>
+3614: INTRODUCTION TO COMMUNICATION SYSTEMS<br>
+Analysis and design of analog and digital communication systems based on Fourier analysis. Topics include linear systems and filtering, power and energy spectral density, basic analog modulation techniques, quantization of analog signals, line coding, pulse shaping, and transmitter and receiver design concepts. Applications include AM and FM radio, television, digital communications, and frequency-division and time-division multiplexing. Pre: 2704. (3H,3C)<br>
+<br>
+3704: CONTINUOUS AND DISCRETE SYSTEM THEORY<br>
+Continuous- and discrete-time system theory.  Block diagrams, feedback, and stability theory.  System analysis with Bode diagrams.  Discrete-time stability, difference equations, Z-transforms, transfer functions, Fourier transforms, and frequency response.  Sampling of continuous systems and an introduction to digital filtering. Pre: 2704. (3H,3C) I,II.<br>
+<br>
+3964: FIELD STUDY<br>
+Variable credit course.<br>
+<br>
+3974: INDEPENDENT STUDY<br>
+Variable credit course.<br>
+<br>
+3984: SPECIAL STUDY<br>
+Variable credit course.<br>
+<br>
+4104: MICROWAVE AND RF ENGINEERING<br>
+Passive and active Radio Frequency and microwave components and circuits for wireless communications; transmission-line theory; planar transmission-lines and waveguides; S-parameters; resonators; power dividers and couplers; microwave filters; sources, detectors, and active devices; modern RF &amp; microwave CAD; measurement techniques. Pre: (3106, 3204). (3H,3L,4C)<br>
+<br>
+4114: ANTENNAS<br>
+Antenna fundamentals, analysis and design principles, and a survey of antenna types including:  arrays, wire antennas, broadband antennas, and aperture antennas. Pre: 3106. (3H,3C) II.<br>
+<br>
+4124: RADIO WAVE PROPAGATION<br>
+Behavior of radiated electromagnetic waves in terrestrial, atmosphere, space, and urban environments; path, frequency and antenna selection for practical communication systems; propagation prediction. Pre: 3106. (3H,3C)<br>
+<br>
+4134: FIBER OPTICS APPLICATIONS<br>
+Theory of optical fiber waveguide propagation and design applications in communication and sensing systems. I Pre: 3106. (3H,3C)<br>
+<br>
+4144: INTRODUCTION TO OPTICAL INFORMATION PROCESSING<br>
+Modern wave optics.  The application of Fourier transforms to image analysis, optical spatial filtering, and image processing. Pre: 3106. (3H,3C) II.<br>
+<br>
+4154: INTRODUCTION TO SPACE WEATHER<br>
+The space environment from the Sun to the Earth's upper atmosphere and the practical consequences (space weather) of this environment on the modern technologies and human health.  Concepts in space plasma physics.  Examples of observations and data utilized to illustrate the environment and its dynamic variability. Pre: 3106. (3H,3C)<br>
+<br>
+4164: INTRODUCTION TO GLOBAL POSITIONING SYSTEM (GPS) THEORY AND DESIGN<br>
+Fundamental theory and applications of radio navigation with the Global Positioning System GPS. Satellite orbit theory, GPS signal structure and theory, point positioning with pseudoranges and carrier phases, selective availability, dilution of precision, differential GPS, atmospheric effects on GPS signals. Pre: 3106 or AOE 4134. (3H,3L,4C)<br>
+<br>
+4205-4206: ELECTRONIC CIRCUIT DESIGN<br>
+Stability and response of feedback amplifier, wideband amplifiers, operational amplifier characteristics, waveform generators and wave shaping, nonlinear circuit applications, signal generators, and photolithography. Design of analog electronic circuits, circuit simulation, response characterization, and printed circuit construction. Pre: 3204 for 4205; 4205 for 4206. (3H,3C) I,II.<br>
+<br>
+4214: SEMICONDUCTOR DEVICE FUNDAMENTALS<br>
+Fundamental semiconductor device physics associated with semiconductor materials and devices with an in-depth coverage of p-n and Schottky diodes, bipolar junction transistors and metal-oxide semiconductor and junction field effect transistors. Pre: 2204 or MSE 3204 or PHYS 3455. (3H,3C)<br>
+<br>
+4220: ANALOG INTEGRATED CIRCUIT DESIGN<br>
+Integrated circuit design in silicon bipolar, MOS, and BiCMOS technologies for communications, sensor, instrumentation, data conversion, and power management applications.   Models for integrated circuit active devices in bipolar and MOS technologies; noise; current mirrors, active loads and references; amplifiers and output stages; operational amplifiers; and an introduction to data conversion circuits.  Circuit design at the IC level; modern VLSI CAD software.  A grade of C- or better required in pre-requisite 3204. Pre: 3204. (3H,3C)<br>
+<br>
+4224: POWER ELECTRONICS<br>
+Power devices and switching circuits including inverters and converters; electronic power processing and control as applied to industrial drives, transportation systems, computers, and spacecraft systems. I Pre: 3204. (3H,3C)<br>
+<br>
+4234 (MSE 4234): SEMICONDUCTOR PROCESSING<br>
+Manufacturing practices used in silicon integrated circuit fabrication and the underlying scientific basis for these process technologies.  Physical models are developed to explain basic fabrication steps, such as substrate growth, thermal oxidation, dopant diffusion, ion implantation, thin film deposition, etching, and lithography.  The overall CMOS integrated circuit process flow is described within the context of these physical models. I. Pre: 2204 or 3054. (3H,3C)<br>
+<br>
+4235-4236 (MSE 4235-4236): PRINCIPLES OF ELECTRONIC PACKAGING<br>
+This two-course sequence covers principles and analyses for design and manufacture of electronic packages. 4235: design issues such as electrical, electromagnetic, thermal, mechanical, and thermomechanical, are covered at the lower levels of packaging hierarchy. Materials and process selection guidelines are discussed for the manufacturing and reliability of chip carriers, multichip and hybrid modules. 4236: system-level package design issues for meeting application requirements and modeling tools for analyzing electronic packages are introduced. Materials and process selection guidelines are discussed for the manufacturing and reliability of packaged electronic products. Pre: 2204 or 3054 for 4235; 2204, (4235 or MSE 4236) for 4236. Co: 3054 for 4235. (3H,3C)<br>
+<br>
+4244: INTERMEDIATE SEMICONDUCTOR PROCESSING LABORATORY<br>
+Design, layout, fabricate, and characterize microelectronic devices. Analyze test results to verify performance to the predetermined specifications. Required oral and written reports. A C- or higher is required in all pre-requisite courses. Pre: 4234 or MSE 4234. (1H,6L,3C)<br>
+<br>
+4284: POWER ELECTRONICS LABORATORY<br>
+Design and testing of electronic power processing systems for commercial and aerospace applications. Pre: 4224. (3L,1C) II.<br>
+<br>
+4304: DESIGN IN POWER ENGINEERING<br>
+A study of the principles in electric power engineering. Expert systems, superconductivity, DC transmission, motor control, system protection, high performance motors, solar energy, microcomputer applications, machine design, computer-aided design, digital relaying and space station application. I (3H,3C)<br>
+<br>
+4324: ELECTRONIC CONTROL OF MACHINES<br>
+Dynamics and control of electric machines driven by electronic power converters.<br>
+Pre: 4405, 4224. (3H,3C) II.<br>
+<br>
+4334: POWER SYSTEM ANALYSIS AND CONTROL<br>
+Development of methods for power analysis and control. An analysis and design of systems for steady state, transient, and dynamic conditions. Digital solutions emphasized. I Pre: 3304. (3H,3C)<br>
+<br>
+4344: ELECTRIC POWER QUALITY FOR THE DIGITAL ECONOMY<br>
+Causes, consequences and solutions of power quality problems that affect the operation of computerized processes and electronic systems.  Industry standards, monitoring techniques and economic consideration of power quality issues. Pre: 3304. (3H,3C)<br>
+<br>
+4354: POWER SYSTEM PROTECTION<br>
+Protection of power apparatus and systems.  Fuses.  Voltage and current transducers.  Relays.  Coordination of relays. Pilot channels.  Grounding practices.  Surge phenomena. Insulation coordination. Pre: 4334. (3H,3C) II.<br>
+<br>
+4364: ALTERNATE ENERGY SYSTEMS<br>
+Electric energy from alternative energy sources including solar, wind, hydro, biomass, geothermal and ocean. Characteristics of direct conversion, electromechanical conversion, and storage devices used in alternative energy systems.  Power system issues associated with integration of small scale energy sources into the electricity grid. Pre: STAT 4714. (3H,3C) II.<br>
+<br>
+4374: POWER SYSTEM PROTECTION LABORATORY<br>
+Experimental verification of principles and practice of protective relaying.  Experiments and design projects to demonstrate the principles and techniques of industrial power system design.  Fuses, time overcurrent, and instantaneous relays.  Differential relaying for transformers.  Distance relaying.  Current and voltage transformers. Pre: 4334. Co: 4354. (3L,1C) II.<br>
+<br>
+4405-4406: CONTROL SYSTEMS<br>
+Introduction to the design of feedback compensation to improve the transient and steady-state performance of systems.  Course covers modeling techniques, root locus analysis and design, Nyquist criterion, and frequency domain compensation.  Must have a C- or better in prerequisite 3704. 4406:  Extension of the techniques of 4405 to systems controlled by digital compensators.  Course covers discrete-time modeling of continuous-time systems, discrete-time redesign of continuous controllers, root-locus compensation, and frequency domain compensation. A capstone design project involving both written and oral presentations is required.  Must have a C- or better in prerequisite 4405. Pre: 3704 for 4405; 4405 for 4406. (3H,3C)<br>
+<br>
+4415-4416: CONTROL SYSTEMS LABORATORY<br>
+Design and implementation of controllers for physical systems. System identification techniques.  4415: Supplements material in ECPE 4405. Continuous-time modeling and control.  4416: Supplements material in ECPE 4406. Discrete-time modeling and control. Co: 4405 for 4415; 4406 for 4416. (3L,1C) I,II.<br>
+<br>
+4500: FUNDAMENTALS OF COMPUTER SYSTEMS<br>
+Fundamental principles and concepts of computer systems. Computer hardware; Boolean logic; number systems and representation; design and operation of digital logic; instruction set architectures and computer organization; and basics of data communication and networking.  Partially duplicates ECE 3504 and 4504. Master of Information Technology students only.  Pre:  Ability to program in a modern high-level programming language. (3H,3C)<br>
+<br>
+4504 (CS 4504): COMPUTER ORGANIZATION<br>
+Information representation and transfer; instructions and data access methods; the control unit and microprogramming; memories; input/output and interrupts; secondary storage; the von Neumann SISD organization; high level language machines; the RISC concept; special purpose processors including operating system, file, text, floating point, communication, etc.  Multicomputers; multiprocessors; concurrent processing support; Pipeline machines, processor arrays, database machines; the data flow/data directed approach; computer networks. A grade of C or better required in CS prerequisite 3204. Pre: CS 3204. (3H,3C) I,II.<br>
+<br>
+4514: DIGITAL DESIGN II<br>
+In this course, students will learn to use a hardware descriptive language (VHDL) in the digital design process. Emphasis will be on system-level concepts and high-level design representations. Methods will be learned that are appropriate for use in automated synthesis systems. Students will have the opportunity to use commercial schematic capture and simulation tools to design a series of increasingly complex devices. Students will also use a logic synthesis tool and synthesize assignments into Field Programmable Gate Arrays. Must have a C- or better in prerequisite 3504. Pre: 3504. (3H,3L,4C)<br>
+<br>
+4520: DIGITAL AND MIXED-SIGNAL SYSTEM TESTING AND TESTABLE DESIGN<br>
+Various topics on testing and testable design for digital and mixed-signal systems are studied:  fault modeling, logic and fault simulation, fault modeling, automatic test pattern generation, deterministic ATPG, simulation-based ATPG, delay fault testing, design for testability, built-in-self-test and fault diagnosis. Pre: 3504, 2574. (3H,3C)<br>
+<br>
+4524: ARTIFICIAL INTELLIGENCE AND ENGINEERING APPLICATIONS<br>
+Problem solving methods; problem spaces; search techniques; knowledge representation; programming languages for AI; games; predicate logic; knowledge-based systems; machine learning; planning techniques; reactive systems; artificial neural networks; natural language understanding; computer vision; robotics. Pre: 2574, STAT 4714. (3H,3L,4C)<br>
+<br>
+4530: HARDWARE-SOFTWARE CODESIGN<br>
+An introduction to the design of mixed hardware-software systems, focusing on common underlying modeling concepts, the design of hardware-software interfaces, and the trade-offs between hardware and software components.  Students will use simulation tools to conduct experiments with mixed hardware-software systems in the area of embedded systems. Pre: 3504, (2984 or 2534). (3H,3C)<br>
+<br>
+4534: EMBEDDED SYSTEM DESIGN<br>
+Introduction to the design of embedded computer systems; design, implementation, and analysis of embedded computer hardware and software; design, implementation, and debugging of complex software applications on embedded systems; and fundamentals of real-time operating systems for embedded computers.  Semester-long design project including written and oral presentations.  C- or better required in pre-requisites. Pre: 3574, 2534. (3H,3L,4C)<br>
+<br>
+4540: VLSI CIRCUIT DESIGN<br>
+Introduction to the design and layout of Very Large Scale Integrated Circuits (VLSI). Emphasis is placed on digital CMOS circuits. Static and dynamic properties of MOSFET devices, along with integrated circuit fabrication are examined. Computer-aided design tools are used to produce working integrated circuit designs. Pre: 2204, 2504. (3H,3C)<br>
+<br>
+4550: REAL-TIME SYSTEMS<br>
+Introduction to real-time systems, real-time scheduling including multiprocessor scheduling, real-time operating systems (kernels), real-time communication, real-time programming languages, reliability and fault-tolerance, and real-time system requirements and design methods. Design, analysis, and implementation of real-time kernel mechanisms and real-time applications using kernels such as Linux and programming languages such as C (with POSIX primitives) and Ada 95.  Must have a grade of C- or better in prerequisites 4534 or CS 3204.  Pre: 4534 or CS 3204. (3H,3C) II.<br>
+<br>
+4560: COMPUTER AND NETWORK SECURITY FUNDAMENTALS<br>
+This course introduces fundamental security principles and real-world applications of Internet and computer security.  Topics covered in the course include legal and privacy issues, risk analysis, attack and intrusion detection concepts, system log analysis, intrusion detection and packet filtering techniques, computer security models, computer forensics, and distributed denial-of-service (DDoS) attacks.  Must have C- or better in ECE 4564 or CS 4254. Pre: 4564 or CS 4254. (3H,3C)<br>
+<br>
+4564: NETWORK APPLICATION DESIGN<br>
+Application program interface and network transport services including User Datagram Protocol and Transmission Control Protocol from the Internet Protocol suite.  Client-server organization and design of synchronous, asynchronous, and multithreaded client and server applications.  Design, implementation, and testing techniques to improve robustness and performance.  Partially duplicates CS 4254 and credit will not be allowed for both. Pre: (2504, 2574). (3H,3C) <br>
+<br>
+4570 (CS 4570): WIRELESS NETWORKS AND MOBILE SYSTEMS<br>
+Multidisciplinary, project-oriented design course that considers aspects of wireless and mobile systems including wireless networks and link protocols, mobile networking including support for the Internet Protocol suite, mobile middleware, and mobile applications.  Students complete multiple experiments and design projects. Pre: 4564. (3H,3C)<br>
+<br>
+4574: LARGE-SCALE SOFTWARE DEVELOPMENT FOR ENGINEERING SYSTEMS<br>
+Large-scale software implementations of the hierarchy of engineering analysis, design, and decision evaluation. Computer-aided engineering programs with state-of-the-art computer tools and methods.  Operator overloading, dynamic polymorphism, graphical user interfaces, generic programming, dynamic link libraries, and multiple threads. Pre: 3574. (3H,3C)<br>
+<br>
+4605-4606: RADIO ENGINEERING<br>
+Wireless application circuit design for gain and filter control at radio frequencies to interface the baseband processing systems and the antennas of communication systems.  4605: Design of radio transmitter and receiver circuits using scattering-parameter methods. Circuits include oscillators, radio frequency amplifiers and matching networks, mixers and detectors.  4606: Design of amplitude, frequency, and pulse-modulated communication systems, including modulators, detectors, and the effects of noise. Design basics and guidelines for phaselocked loops and several power amplifier configurations. Pre: 3106, 3204, 3614 for 4605; 4605 for 4606. Co: 4675 for 4605. (3H,3C) I,II.<br>
+<br>
+4614: TELECOMMUNICATION NETWORKS<br>
+An introduction and overview of the architecture, technology, operation, and application of telecommunication networks.  Major topics include the convergence of telephone and computer networks, the layered architecture of computer networks with emphasis on the Internet, and wireless network technology and applications. Pre: 2504, 2704, STAT 4714. (3H,3C)<br>
+<br>
+4624: DIGITAL SIGNAL PROCESSING AND FILTER DESIGN<br>
+Analysis, design, and realization of digital filters. Discrete Fourier Transform algorithms, digital filter design procedures, coefficient quantization. Pre:  C or better in 3704 Pre: 3704. (3H,3C) <br>
+<br>
+4634: DIGITAL COMMUNICATIONS<br>
+System level analysis and design for digital communications systems:  analog-to-digital conversion, digital baseband communications, carrier modulation formats, matched filters, bandwidth efficiency, receiver design, link budgets, signal-to-noise ratio, bit error rates in additive-white-noise Gaussian (AWGN) channels, and multiple access.  Must have a grade of C- or better in prerequisites 3614 and STAT 4714. Pre: 3614, STAT 4714. (3H,3C)<br>
+<br>
+4644: SATELLITE COMMUNICATIONS<br>
+Theory and practice of satellite communications.  Orbits and launchers, spacecraft, link budgets, modulation, coding, multiple access techniques, propagation effects, and earth terminals. Pre: 3614. (3H,3C) II.<br>
+<br>
+4654: DSP IMPLEMENTATION OF COMMUNICATION SYSTEMS<br>
+An introduction to designing communication subsystems and involves designing and implementing in software demodulators, signal synthesizers, and synchronizers. A significant part of this class will be DSP programming. Pre: 4624, 4634. (3H,3C)<br>
+<br>
+4664: ANALOG &amp; DIGITAL COMMUNICATIONS LABORATORY<br>
+Laboratory experiments which deal with the design and measurement of analog and digital communication systems. Concepts include SNR, Modulation Index, PCM, and spread spectrum. I Pre: 3614. Co: 4634. (3L,1C)<br>
+<br>
+4674: SCATTERING PARAMETERS LABORATORY<br>
+Laboratory techniques for ultra-high frequency measurements. Emphasizes the design of a microstrip amplifier using scattering parameter measurement and analysis. Pre: 4605, 4675. (3L,1C) II.<br>
+<br>
+4675-4676: RADIO ENGINEERING LABORATORY<br>
+Laboratory techniques for radio frequencies including the design of amplifiers, oscillators, and a single-side-band receiver.  Associated measurements will be used. Pre: 3106, 3204 for 4675; 4675 for 4676. Co: 4605 for 4675; 4606 for 4676.<br>
+(3L,1C) I,II.<br>
+<br>
+4704: PRINCIPLES OF ROBOTICS SYSTEMS<br>
+Introduction to the design, analysis, control, and operation of robotic mechanisms.  Introduction to the use of homogeneous coordinates for kinematics, dynamics, and camera orientation; sensors and actuators, control, task planning, vision, and intelligence. Pre: 3704. (3H,3C) II.<br>
+<br>
+4734 (ME 4734): MECHATRONICS<br>
+Electromechanical system modeling, control and applications. Design of electronic interfaces and controllers for mechanical devices.  Sensor technology, signal acquisition, filtering, and conditioning.  Microcontroller-based closed-loop control and device communications.  Sensor and actuator selection, installation, and application strategies. I Pre: 2504, 2704 or ME 3514. (3H,3C)<br>
+<br>
+4904: PROJECT AND REPORT<br>
+Investigation and report on a special project under the direction of a faculty advisor.  Course may be extended over several semesters with a letter grade assigned at the end of the semester in which the project and report are completed. Involves design, construction, and testing of a circuit or system.  A minimum in-major GPA of 2.5 is required for enrollment. Variable credit course.<br>
+<br>
+4964: FIELD STUDY<br>
+Variable credit course.<br>
+<br>
+4974: INDEPENDENT STUDY<br>
+A minimum in-major GPA of 2.0 is required for enrollment. Variable credit course. X-grade allowed.<br>
+<br>
+4984: SPECIAL STUDY<br>
+A minimum in-major GPA of 2.5 is required for enrollment. Variable credit course. X-grade allowed.<br>
+<br>
+4994: UNDERGRADUATE RESEARCH<br>
+A minimum GPA of 2.0 in all ECE courses is required for enrollment. Variable credit course. X-grade allowed. <br>

@@ -1,0 +1,175 @@
+2004 (MATH 2004): ENGINEERING ANALYSIS USING NUMERICAL METHODS<br>
+Numerical methods applied to engineering analysis.  Linear systems.  Root finding.  Numerical integration.  Ordinary differential equations.  Programming using a software package such as Matlab. Pre: ENGE 1016, MATH 1206, MATH 1114. (2H,2C)<br>
+<br>
+2024: INTRODUCTION TO ENGINEERING DESIGN AND ECONOMICS<br>
+Design process, mini-design projects, collaborative design, product dissection, economics of decision making, reverse engineering, intellectual property, oral, written, and graphic communications, engineering ethics. Pre: ENGE 1016 or ENGE 1114. Co: ESM 2104, PHYS 2306. (3H,3C) I,II.<br>
+<br>
+2124: INTRODUCTION TO THERMAL AND FLUID ENGINEERING<br>
+Basics of thermodynamics, fluid mechanics, and heat transfer.  Fluid and thermal properties of materials.  Ideal gas equation of state.  First law of thermodynamics in closed systems.  Transient heat transfer.  First law of thermodynamics in open systems.  Fluid mechanics balances, open systems.  Emphasis on applications in all topic areas. Pre: ESM 2104. Co: MATH 2214. (2H,2C) I,II,IV.<br>
+<br>
+2974: INDEPENDENT STUDY<br>
+Variable credit course.<br>
+<br>
+2984: SPECIAL STUDY<br>
+Variable credit course.<br>
+<br>
+2994: UNDERGRADUATE RESEARCH<br>
+Variable credit course.<br>
+<br>
+3114: ENGINEERING THERMODYNAMICS<br>
+General treatment of the basic laws of thermodynamics with emphasis on engineering applications.  This course is for curricula not requiring 3124. I Pre: MATH 2214. (3H,3C)<br>
+<br>
+3124: THERMODYNAMICS<br>
+Classical thermodynamics and its applications. Thermodynamic properties of pure substances: property tables, property software, equations of state.  First law of thermodynamics.  Second law of thermodynamics.  Gas mixtures.  Combustion: atom and energy balances.  Power and refrigeration cycles. Pre: 2124, (MATH 2214 or MATH 2214H). (3H,3C) I,II.<br>
+<br>
+3134: FUNDAMENTALS OF THERMODYNAMICS<br>
+Fundamental concepts, first and second laws, gas and vapor processes with emphasis on chemical reactions, statistical interpretation of entropy, limited use of thermodynamic property tables.  This course is for AOE and ESM students. I Pre: MATH 2214 or MATH 2214H. (3H,3C)<br>
+<br>
+3145-3146: FUNDAMENTALS OF NUCLEAR ENGINEERING<br>
+Application of fundamental principles of neutron physics and reactor theory.  Introduction to nuclear cross-section data, neutron scattering, nuclear fission, and diffusion theory. Examination of current and next generation nuclear power plants. I Co: MATH 2214 for 3145. (3H,3C)<br>
+<br>
+3304: HEAT AND MASS TRANSFER<br>
+Comprehensive basic course in heat and mass transfer for mechanical engineering students.  Principles of conduction, convection, and radiation with applications to heat exchangers and other engineering systems. Pre: 2124, (MATH 2214 or MATH 2214H). (3H,3C) II, III.<br>
+<br>
+3404: FLUID MECHANICS<br>
+Comprehensive first course in basic and applied fluid mechanics.  Fluid properties, statics, kinematics, and dynamics.  Euler's and Bernoulli's equations. Hydrodynamics.  Dimensional analysis and similitude.  Real fluids, laminar and turbulent flows.  Boundary layer model and approximate analysis.  Compressible flow and propulsion devices.  Flow measurement.  Introduction to turbomachinery with applications. Pre: 2124, (MATH 2214 or MATH 2214H). (3H,3C) I,II.<br>
+<br>
+3504: DYNAMIC SYSTEMS - VIBRATIONS<br>
+Principles of dynamic system modeling with emphasis on second order mechanical systems.  Harmonic and nonharmonic vibrations of single and multi-degree of freedom systems. Applications of computer simulation and analysis techniques in vibrations. Pre: (MATH 2214 or MATH 2214H), ME 3514. (3H,3C) II, IV.<br>
+<br>
+3514: SYSTEM DYNAMICS<br>
+Mathematical descriptions of physical systems' behavior including mechanical, electrical, thermal, and fluid systems and their combinations; system descriptions using state variable and transfer functions; analysis of system responses: convolution integral, frequency response, numerical simulations, and Laplace transform methods; systems concepts: input-output, causality, and analogies; general process descriptions including first-order, second-order, and time delayed. Pre: ESM 2304. (3H,3C) I, II, III.<br>
+<br>
+3604: KINEMATICS AND DYNAMICS OF MACHINERY<br>
+Kinematic analysis and design of cams, gears, and linkages, velocity, acceleration and force analysis, kinematic synthesis, balancing, kinematic and force analysis by complex numbers, computer-aided analysis, and synthesis of linkages. Pre: ESM 2304. (3H,3C)<br>
+<br>
+3614: MECHANICAL DESIGN I<br>
+Design of mechanical components subject to static and fatigue loads.  Design using screws, fasteners, springs and bearings.  Computer-aided design using transfer matrix and finite element methods. Pre: ESM 2204, (MATH 2214 or MATH 2214H). (3H,3C) I,II.<br>
+<br>
+4005-4006: MECHANICAL ENGINEERING LAB<br>
+Principles of measurement, measurement standards and accuracy, detectors and transducers, digital data acquisition principles, signal conditioning systems and readout devices statistical concepts in measurement, experimental investigation of engineering systems, technical report writing. Pre: ECE 3254, ME 3514, STAT 3704 for 4005; 4005 for 4006. (2H,3L,3C) 4005: II,IV; 4006:<br>
+<br>
+4015-4016: ENGINEERING DESIGN AND PROJECT<br>
+Team oriented, open-ended, multi-disciplinary design projects focused on industrially relevant problems.  A specific, complex engineering design problem is normally taken from problem definition to product realization and testing.  Emphasis is placed on documenting and reporting technical work, idea generation and selection, application of design and analysis tools developed in previous courses, project management, selling technical ideas and working in teams. I<br>
+Pre: (4005, 3614, 3304), (3504 or 4504) for 4015; 4015 for 4016. 4015: (2H,1L,3C) 4016: (3H,3C) <br>
+<br>
+4124: COMPUTER AIDED DESIGN OF FLUID-THERMAL SYSTEMS<br>
+Review of physical laws and engineering concepts introduced in thermodynamics, fluid mechanics, and heat transfer with applications.  Emphasis on analysis, modeling, and design of engineering systems, components and physical phenomena with state-of-the-art computer software. I Pre: 3124, 3304, 3404. (2H,3L,3C)<br>
+<br>
+4134: AIR CONDITIONING<br>
+Analysis and design practice for heating, ventilation, and air-conditioning (HVAC) systems.  Psychometrics, air quality, space heating and cooling loads, and moisture control in buildings.  Configurations and designs for HVAC systems by conventional practice and computer-aided methods. Liquid- and air-based distribution systems.  Selection of HVAC system components including compressors, evaporators, heat pumps, and controls for comfort cooling. Pre: 3304. (3H,3C)<br>
+<br>
+4144: REFRIGERATION AND CRYOGENIC ENGINEERING<br>
+Thermodynamics of refrigeration cycles and characteristics of refrigeration equipment.  Analysis and design of systems for cold storage, freeze drying, and manufacturing processes.  Engineering problems associated with reduction, handling, and storage of cryogenic fluids including liquefied natural gas.  Low temperature properties of engineering materials. Pre: 3304. (3H,3C)<br>
+<br>
+4154: INDUSTRIAL ENERGY SYSTEMS<br>
+Survey of energy-intensive technologies used in typical industrial plants, with emphasis on cost-effective energy conservation.  Burners, boilers, pumps, air compressors, electric motors, lights, refrigeration plants, HVAC systems, cogeneration systems, waste heat recovery equipment. Energy-efficient design and operation.  Determination of energy efficiency based on field measurements.  Economic analysis of energy conservation measures.  Mitigation of environmental impacts. Pre: 3114 or 3124 or 3134 or CHE 2164 or BSE 3154. (3H,3C)<br>
+<br>
+4174 (AOE 4174): SPACECRAFT PROPULSION<br>
+Spacecraft propulsion systems and their applications in orbital, interplanetary, and interstellar flight.  Rocket propulsion fundamentals; advanced mission analysis; physics and engineering of chemical rockets, electrical thrusters, and propellantless systems (tethers and sails); spacecraft integration issues. Pre: 4234 or AOE 4234. (3H,3C)<br>
+<br>
+4194 (ESM 4194): SUSTAINABLE ENERGY SOLUTIONS FOR A GLOBAL SOCIETY<br>
+Addresses energy metrics, global and US energy supply and demand, transitional energy sources (natural gas, petroleum, coal, nuclear), sustainable/renewable source (solar, geothermal, hydro, tidal, wind, biofuels), and methods for increasing efficiencies (energy storage, batteries, green building, conservation).  Options for transportation, electricity, lighting and heating needs of industry, agriculture, community, and citizens.  Production, transmission, storage, and disposal issues considered in the context of global political, economic, and environmental impacts. Senior Standing in major may be substituted for pre-requisite ENGL 3764. Pre: (CHEM 1035 or CHEM 1055), PHYS 2306, ENGL 3764. (3H,3C)<br>
+<br>
+4204: INTERNAL COMBUSTION ENGINES<br>
+Analysis and design of gasoline and diesel engines. Fundamental processes and their application in current technology. Thermodynamics: air standard and air-fuel cycles. Combustion: stoichiometry, fuels, chemical equilibrium, chemical kinetics, flame propagation, knock, pollutant formation and control. Flow processes: volumetric efficiency, intake and exhaust tuning, two-stroke scavenging, carburetion, fuel injection, super- and turbo-charging. Pre: 3124, 3404. (3H,3C)<br>
+<br>
+4214: POWER GENERATION<br>
+The design, control, and performance characteristics of electric power generating plants, with major emphasis upon the steam generating system, both fossil and nuclear. Pre: 3124, 3304. Co: 4414. (3H,3C)<br>
+<br>
+4224: AIRCRAFT ENGINES AND GAS TURBINES<br>
+Performance and characteristics of aircraft engines and industrial gas turbines, as determined by thermodynamic, fluid mechanic, heat transfer, and solid mechanic behavior of components.  Operational limitations and component matching.  Stress and associated temperature limits and influence of blade cooling techniques on turbines. Pre: 4234 or 4124. (3H,3C)<br>
+<br>
+4234 (AOE 4234): AEROSPACE PROPULSION SYSTEMS<br>
+Design principles and performance analysis of atmospheric and space propulsion engines and systems.  Application of thermodynamics, compressible fluid flow and combustion fundamentals to the design of gas turbine and rocket engines and components, including inlets, turbomachines, combustors, and nozzles.  Matching of propulsion system to vehicle requirements.  Must have a C- or better in pre-requisites ME 3404 and ME 3124 or AOE 3114 and AOE 3134. Pre: (3404, 3124) or (AOE 3114, ME 3134). (3H,3C)<br>
+<br>
+4244 (AOE 4244): MARINE ENGINEERING<br>
+Analysis of major ship propulsion devices (propellers, water jets).  Integration with propulsion plant and machinery.  Characteristics of marine steam turbines, nuclear power plants, marine diesels, and marine gas turbines.  Shafting system, bearings, and vibration problems.  Must have a C- or better in pre-requisites AOE 3204 and ME 3124 or ME 3134. Pre: AOE 3204, (AOE 3134 or AOE 3124). (3H,3C) <br>
+<br>
+4254: RAMJET AND ROCKET PROPULSION<br>
+Detailed study of analysis and design of ramjet and rocket propulsion systems.  Vehicle performance requirements relating to choice of propulsion systems.  Ramjet inlets, combustion chambers, and nozzles; analysis techniques for high-speed flow.  Liquid and solid propellant rocket engine designs.  Solid propellant burning rates, grain design.  Special propulsion systems for high speed, trans-atmospheric, and space flight. Pre: 4234. (3H,3C)<br>
+<br>
+4304: HEAT TRANSFER ANALYSIS<br>
+Methods for solving multidimensional and transient conduction problems.  Convective heat and mass transfer with applications to industrial process heating, heat exchanger design, boiling and condensation, cooling tower design, and aerodynamic heating.  Radiation properties of materials and heat transfer applications to real surfaces and absorbing-transmitting media including gases and windows. Transfer from wetted surfaces and through porous media with applications to drying, evaporative cooling, and heat pipe theory. Pre: 3304. (3H,3C)<br>
+<br>
+4404: FLUID MECHANICS II<br>
+Integral and differential equations of mass, momentum, and energy.  Equations for turbulent flow.  Applications in  hydrodynamics, thermodynamics of compressible flow, channel and multiple path systems, boundary layers with exact and approximate solutions, shear and drag, fluid transients, laboratory techniques. Pre: 3404. (3H,3C)<br>
+<br>
+4424: THERMODYNAMICS OF FLUID FLOW<br>
+One-dimensional compressible flow of perfect gases under specialized conditions: isentropic flow (with area change), normal and oblique shocks, constant area flow with friction, constant area flow with heat transfer, Prandtl-Meyer flow, and generalized one-dimensional flow. Introduction to propulsion systems and other selected topics. Pre: (3124 or 3114), 3404. (3H,3C)<br>
+<br>
+4434 (BSE 4424): FLUID POWER SYSTEMS AND CONTROLS<br>
+Design and analysis of industrial and mobile hydraulic systems.  Hydrostatic transmissions.  Electrohydraulic servovalve characteristics and use in precise position and speed control application.  Characteristics of pumps, motors, valves, and activators illustrated in laboratory exercises. Pre: ESM 3024 or ME 3404. (2H,3L,3C) <br>
+<br>
+4444: ROTATING MACHINERY<br>
+Techniques and analysis issues associated with the dynamics, operation, and maintenance of rotating machinery with a focus on turbomachinery issues. Vibration analysis, introductory rotor dynamics, rotor balancing techniques, oil and wear particle sampling, gearbox and bearing issues, industrial case studies, and environmental issues associated with power plant operation. Hands-on experience with small high speed rotors and state-of-the-art monitoring instrumentation in common use throughout the petrochemical and power generation industries. Monitoring of actual steam plant equipment. Pre: 3504. (3H,3C)<br>
+<br>
+4454: ENGR. LEADERSHIP/MGMT<br>
+Introduction to management and mentoring skills associated with the application of the engineering design process. Course covers skills necessary for leading diverse teams of people through a technical design project.  Managing teams of local high school students through an authentic technical design experience associated with design competitions. Course addresses the practical applications of science, math and engineering, while building and managing teams of people to meet technical project goals. Pre-requisite: ME 4015 or similar team-based design experience, or by permission of instructor. Pre: 4015. (2H,3L,3C)<br>
+<br>
+4504: DYNAMIC SYSTEMS - CONTROLS ENGINEERING I<br>
+Fundamentals of feedback control theory, classical analysis and design techniques for automatic controls, introduction to modern control theory. Pre: 3514. (3H,3C) I,II.<br>
+<br>
+4514: CONTROLS ENGINEERING II<br>
+Applications of classical and modern control techniques in design studies.  Introduction to nonlinear systems and nonlinear control strategies and to digital control techniques.  Includes design problems and case studies with hands-on experience. Pre: 4504. (3H,3C)<br>
+<br>
+4524: INTRODUCTION TO ROBOTICS AND AUTOMATION<br>
+Automation, robot technology, kinematics, dynamics, trajectory planning, and control of two-dimensional and spatial robots; robot programming; design and simulation of robotic devices. II Pre: ECE 2574, STAT 4714. (3H,3C)<br>
+<br>
+4534: LAND VEHICLE DYNAMICS<br>
+Analytical methods for land vehicle dynamics.  Mechanics of pneumatic tires on pavement and steel wheels on rails. Vehicle stability, handling, response to random guideway and roadway irregularities, ride quality computation methods and standards, suspension design.  II Pre: 3514. (3H,3C)<br>
+<br>
+4544: AUTOMOTIVE ENGINEERING<br>
+Vehicle performance, drive train, suspension, steering, and brake systems.  Steady state and transient conditions. Senior standing in Mechanical Engineering required. I (3H,3C)<br>
+<br>
+4554: ADVANCED TECHNOLOGY FOR MOTOR VEHICLES<br>
+Energy use and environmental issues for motor vehicles: Emissions standards, fleet requirements, dynamometer testing, fuel economy, and vehicle performance. Alternative fuel vehicles: Characteristics and infrastructure of fuels, batteries, electric vehicles, and hybrid electric vehicles. Vehicle design: Modeling and simulation of vehicle energy use and performance, component sizing. Fuel cells for transportation. Heavy-duty vehicles and busses. Low mass vehicles and future vehicle technology. I Pre: 3114 or 3124 or 3134. (3H,3C)<br>
+<br>
+4604: MECHANISMS<br>
+Advanced cam design using analytical and computer methods, design of nonstandard spur-gears cut with a hob and with a pinion-shaper cutter; introduction to computer methods in the design of spur gears; kinematic synthesis by graphical, analytical, and computer methods; balancing of rotating and reciprocating masses, balancing of linkages. Pre: 3604. (3H,3C)<br>
+<br>
+4614: MECHANICAL DESIGN II<br>
+Design of mechanical elements such as welded joints hydrodynamic bearings, spur gears, shafts, brakes. Alternative fatigue design methods, cumulative fatigue, mechanical design computer software. Pre: 3614. (3H,3C)<br>
+<br>
+4624: FINITE ELEMENT PRACTICE IN MECHANICAL DESIGN<br>
+Application of the finite element method to stress analysis problems in mechanical design.  Modeling techniques, proper use of existing computer programs, interpreting of results, application to design modification. I Pre: 3614. (3H,3C)<br>
+<br>
+4634: INTRODUCTION TO COMPUTER-AIDED DESIGN AND MANUFACTURING<br>
+Participants will study the computer-aided design and manufacturing of mechanical systems.  A mechanical system will be designed including preliminary design, analysis, detail design, numerical control programming, and documentation.  Applications programs will be written and interfaced to the CAD/CAM database.  All assignments will be carried out on a CAD/CAM system. II (2H,3L,3C) <br>
+<br>
+4644: INTRODUCTION TO RAPID PROTOTYPING<br>
+Participants will study topics fundamental to rapid prototyping and automated fabrication, including the generation of suitable CAD models, current rapid prototyping fabrication technologies, their underlying material science, the use of secondary processing, and the impact of these technologies on society.  The rapid prototyping process will be illustrated by the actual design and fabrication of a part.  Programming skills required. Co: 4634. (3H,3C)<br>
+<br>
+4664: INTRO GLOBAL COLL ENGR DESIGN<br>
+Participants will study topics fundamental to global collaborative engineering design, product data management, and collaborative product data management.  These topics will be applied during a team project with team members located overseas, utilizing state-of-the-art collaborative engineering and product data management software and hardware technologies.  Partially duplicates 5664.  Credit may only be received for one course. I Pre: 2024, 4634. (3H,3C) <br>
+<br>
+4704 (MSE 4064): TRIBOLOGY<br>
+Basic principles of tribology--the study of friction, wear, and lubrication--including the importance of materials, surfaces, design, operating conditions, environment, and lubrication on friction, wear, and surface damage in any system.  Application of tribological theories, concepts, techniques, and approaches to design, research, development, evaluation, and problem-solving.   Pre: MSE 2034 or MSE 2044, MSE 3034 or ME 3404. (3H,3C)<br>
+<br>
+4714: THEORY AND APPLICATION OF HYDRODYNAMIC LUBRICATION<br>
+Basic equation of lubrication as applied to design problems. Reynolds equation, plain journal bearing analysis, fixed arc geometry bearing analysis, tilting pad bearing analysis. Fluid film seal analysis and design.  Thrust bearing design and application.  Introduction to gas bearing theory. Finite element solution for fluid film bearing analysis. Pre: 3404. (3H,3C)<br>
+<br>
+4724: ENGINEERING ACOUSTICS<br>
+Basic acoustical theory and practice, acoustic terminology, measurement, transmission, and perception of sound, muffler design, noise control techniques. I Pre: 3514. (3H,3C)<br>
+<br>
+4734 (ECE 4734): MECHATRONICS<br>
+Electromechanical system modeling, control and applications. Design of electronic interfaces and controllers for mechanical devices.  Sensor technology, signal acquisition, filtering, and conditioning.  Microcontroller-based closed-loop control and device communications.  Sensor and actuator selection, installation, and application strategies. I Pre: ECE 2504, ECE 2704 or ME 3514. (3H,3C)<br>
+<br>
+4744: THE COMPLEXITY OF SOCIO-TECHNOLOGICAL PROBLEMS<br>
+Examines the complexity and interconnectedness of problems involving technology and society (environmental pollution, waste of natural resources, energy, automation, computers and privacy, medical technology, genetic engineering,hunger, the third world, military spending, nuclear arms and war, etc.). Includes readings, guest lectures, discussion, and project work in small groups on real problems.  Junior or Senior standing in any field required. (3H,3C)<br>
+<br>
+4754: IMPACT BIOMECHANICS<br>
+Introduction to impact biomechanics.  Covers in-depth background of human tolerance to impact loading.  Emphasis on the interdisciplinary nature of impact biomechanics. Use of fundamental engineering principles and advanced medical technologies to develop injury prevention measures. Real world examples from automobile safety, military applications, and sport biomechanics. Pre: ESM 2204, ESM 2304. (3H,3C)<br>
+<br>
+4974: INDEPENDENT STUDY<br>
+Variable credit course.<br>
+<br>
+4984: SPECIAL STUDY<br>
+Variable credit course.<br>
+<br>
+4994: UNDERGRADUATE RESEARCH<br>
+Variable credit course.<br>
+<br>
+4994H: UNDERGRADUATE RESEARCH<br>
+Variable credit course.<br>
+<br>

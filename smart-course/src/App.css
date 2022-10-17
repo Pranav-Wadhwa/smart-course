@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap');
+
+input, button {
+    all: unset;
+}
+
+
+.App {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #222 ;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Lora', serif;
+  color: white;
+}
